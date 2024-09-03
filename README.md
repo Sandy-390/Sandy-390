@@ -13,7 +13,7 @@ QA Engineer / Data Analyst
 - ⚡ Contact with me on:
    <br>  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/santhosh-d-00aab824b) [<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](sandystoriez.blogspot.com)
 
-   <img src="https://komarev.com/ghpvc/?username=Sandy-390&label=Profile%25views&color=0e75b6&style=flat" alt="Sandy-390" /> </p>
+   <img src="https://komarev.com/ghpvc/?username=Sandy-390&label=Profile%20views&color=0e75b6&style=flat" alt="Sandy-390" /> </p>
 
   ## Known Codes:
 
