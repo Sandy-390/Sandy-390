@@ -21,4 +21,6 @@ QA Engineer / Data Analyst
 
   <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/><img width="50" height="50" src="https://img.icons8.com/nolan/50/visual-studio.png" alt="visual-studio"/>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandy-390&bg_color=000000&color=9e4c98&line=43dbf9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandy-390" alt="Sandy-390" /></a>
+  
+[![Santhosh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandy-390&bg_color=000000&color=9e4c98&line=43dbf9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
