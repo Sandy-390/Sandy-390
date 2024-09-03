@@ -15,7 +15,7 @@ QA Engineer / Data Analyst
 
   ## Known Codes:
 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/stickers/50/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="55" height="55" src="https://img.icons8.com/clouds/100/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/stickers/50/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="55" height="55" src="https://img.icons8.com/clouds/100/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
 
   ## IDE Works on:
 
